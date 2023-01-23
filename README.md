@@ -1,2 +1,8 @@
-# nico
-# nico
+#La Panthere
+Here are the things you need to work on:
+
+Analysis of the current SEO status of the site provided. I would like you to indicate the parts of the site which are not optimized for SEO and/or which are not up to date in terms of accessibility, and that you justify your choices. Remember to add the best practice to put in place for each part of the site that is not optimized, citing your sources.
+The goal is for the site to be better ranked when you type “Entreprise webdesign Lyon” in the search engines. Martin would like there to be at least one on site speed and size and one on accessibility. Currently, some of our users are encountering accessibility problems on our site, this is a point on which we want to improve. You will therefore have to add the necessary elements. The list of what you will need to implement can be found at this address.
+Improvement of the SEO of the site. We will then have to optimize our site by applying your 10 recommendations to its content and source code. You will have to provide the complete source code for the improved version of the site. The site must pass the W3C for HTML and CSS.
+Comparison of results. The loading speed of the pages of the site has an impact on our ranking in search results. In your various recommendations, I would like you to take measures to accelerate the loading speed, and that you show me that it works, thanks to comparative screenshots between the current version of the site and the one you will have optimized, provided in an optimization report. This report should include comparisons for the 10 recommendations.
+As you can imagine, all these elements will have to be coded in HTML and CSS. Also make sure that the site is still adapted to all screen sizes after your modifications.
