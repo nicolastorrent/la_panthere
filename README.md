@@ -1,5 +1,5 @@
-#La Panthere
-#Here are the things you need to work on:/
+# La Panthere
+# Here are the things you need to work on:
 
 Analysis of the current SEO status of the site provided. I would like you to indicate the parts of the site which are not optimized for SEO and/or which are not up to date in terms of accessibility, and that you justify your choices. Remember to add the best practice to put in place for each part of the site that is not optimized, citing your sources.
 The goal is for the site to be better ranked when you type “Entreprise webdesign Lyon” in the search engines. Martin would like there to be at least one on site speed and size and one on accessibility. Currently, some of our users are encountering accessibility problems on our site, this is a point on which we want to improve. You will therefore have to add the necessary elements. The list of what you will need to implement can be found at this address.
