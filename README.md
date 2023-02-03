@@ -1,3 +1,5 @@
+# ![left 100%](https://github.com/thierry-laval/archives/blob/master/images/Logo_OpenClassrooms.png?raw=true) [OpenClassrooms - Web Developer -Optimize an existing website](https://openclassrooms.com/en/paths/556/projects/638/assignment)
+
 # La Panthere
 # Here are the things you need to work on:
 
